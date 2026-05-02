@@ -17,3 +17,5 @@ Day 3: Exploratory Data Analysis. Identified mean-reverting characteristics in t
 Day 4: Parameter Calibration. Derived Ornstein-Uhlenbeck parameters using Linear Regression. Watched a few videos on YouTube about Monte Carlo for quant finance.
 
 Day 5: Stochastic Simulation. Implemented Monte Carlo paths. Resolved `IndentationError` in the nested simulation loops. Visualized 100 potential "alternate realities" for the spread.
+
+Day 6: Identified a -10 Sigma structural break in the April 2026 data where NNE/OKLO permanently decoupled. Validated the model's failure against my real-world trading experience since the 05/2024 IPOs and used an Adaptive Moving Mean to track the new market regime.
